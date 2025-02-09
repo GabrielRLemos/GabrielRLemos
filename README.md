@@ -1,7 +1,7 @@
 ## Olá! Me chamo Gabriel Lemos 👋
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lemos-96820a231/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabriel97rl@gmail.com)
+
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielRLemos&show_icons=true&theme=radical)
 
