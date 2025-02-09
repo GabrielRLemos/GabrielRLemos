@@ -4,7 +4,7 @@
 
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielRLemos&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRLemos&layout=compact)
 ## **Tecnologias que sou familiarizado** 💻
 <div style="display: inline_block"> 
 <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
